@@ -5,7 +5,7 @@
 
 ---
 
-## 📘 Module 01: The Heart of Technical Writing  
+## 📘 Course 01: The Heart of Technical Writing  
 
 ### 🔹 Essence  
 Discover what makes technical writing different from every other form of writing.  
@@ -21,7 +21,7 @@ Learn how clarity turns complexity into confidence.
 
 ---
 
-## 🎨 Module 02: Design Principles & Writing Tools  
+## 🎨 Course 02: Design Principles & Writing Tools  
 
 ### 🔹 Essence  
 Good design makes good writing visible.  
@@ -37,7 +37,7 @@ This module blends the visuals, layout, and tools that bring documentation to li
 
 ---
 
-## 🌍 Module 03: Document Diversity & Ethical Clarity  
+## 🌍 Course 03: Document Diversity & Ethical Clarity  
 
 ### 🔹 Essence  
 Technical writers wear many hats — teacher, translator, and guardian of ethics.  
@@ -53,7 +53,7 @@ Here, you’ll learn to create with honesty, inclusivity, and cultural awareness
 
 ---
 
-## 🚀 Module 04: Advanced Craft & Professional Growth  
+## 🚀 Course 04: Advanced Craft & Professional Growth  
 
 ### 🔹 Essence  
 Move beyond the basics — this is where you evolve from writer to strategist.  
