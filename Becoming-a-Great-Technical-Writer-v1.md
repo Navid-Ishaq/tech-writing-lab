@@ -1,3 +1,7 @@
+https://www.youtube.com/watch?v=1w1QYR-n1js
+
+---
+
 # 📘 Comprehensive Notes: *Insider Secrets to Becoming a Great Technical Writer*
 
 **By Josh, Founder of Technical Writer HQ**
