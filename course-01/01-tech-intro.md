@@ -1,4 +1,4 @@
-# 🎓 **WonderClass Notes — Introduction to Technical Communication**
+# 🎓 **Introduction to Technical Communication**
 
 > _“Where clarity meets creativity — and writing becomes a bridge between minds.”_ ✨  
 > _By Siraat AI Academy 🌿_
