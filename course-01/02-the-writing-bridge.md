@@ -1,5 +1,4 @@
-# 🌿 Siraat AI Academy Notes  
-## 🧭 Lesson 01 — The Essence and Evolution of Technical Writing  
+# 🌿The Essence and Evolution of Technical Writing  
 
 > “Technical writing isn’t about complexity — it’s about clarity crafted with care.” ✍️  
 
