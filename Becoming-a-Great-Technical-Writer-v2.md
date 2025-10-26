@@ -1,8 +1,7 @@
-Of course. Here are comprehensive notes with headings, sub-headings, and bolded keywords, created from the provided transcript.
 
 ***
 
-### **Comprehensive Guide to Becoming a Great Technical Writer**
+# **Comprehensive Guide to Becoming a Great Technical Writer**
 
 #### **I. Introduction & Credentials of the Speaker (Josh)**
 *   **Founder** of **Technical Writer HQ**.
