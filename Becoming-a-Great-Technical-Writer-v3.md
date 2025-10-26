@@ -1,7 +1,3 @@
-https://www.youtube.com/watch?v=1w1QYR-n1js
-
----
-
 # Comprehensive Academic-Style Notes — *Introduction to Technical Writing*
 
 **(Exhaustive, structured, and keyword-highlighted — includes every major point from the transcript.)**
